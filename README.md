@@ -1,11 +1,7 @@
-### Currently working on a project that's useless, lacks academic significance, and has little to no innovation :hankey:.
+### Currently working on a project that's useless, lacks academic significance, and has little to no innovation :hankey:
 
+---- 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzhhh2212&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhhh2212&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhhh2212&layout=compact&theme=vue-dark"/>
