@@ -1,4 +1,4 @@
-### Currently working on a project that's useless, lacks academic significance, and has little to no innovation:hankey:.
+### Currently working on a project that's useless, lacks academic significance, and has little to no innovation :hankey:.
 
 
 
