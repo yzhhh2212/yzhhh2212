@@ -11,10 +11,10 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhhh2212&layout=compact&theme=vue-dark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=yzhhh2212&show_icons=true&theme=dark&hide=contribs&rank_icon=percentile"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=yzhhh2212&show_icons=true&theme=vue-dark&hide=contribs&rank_icon=percentile"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhhh2212&layout=compact&theme=default"/>
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhhh2212&layout=compact&theme=vue-dark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=yzhhh2212&show_icons=true&theme=vue-dark&hide=contribs"/>
